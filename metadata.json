@@ -1,0 +1,6 @@
+{
+  "name": "FARMIX V2",
+  "description": "Smart Poultry Feed Formulator & Farm Assistant - offline-first least-cost feed formulator and AI-enabled farm manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
